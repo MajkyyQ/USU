@@ -27,18 +27,18 @@ Z nějakého důvodu k dokončení extrakce blokují soubory .~lock.nazev.ods# a
 
 Celá složka by měla vypadat takto:
 
-projekt/
-│
-├── Maršoun_poznavani_znacek.ipynb
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── Data/
-│   ├── Meta
-│   ├── Test
-│   └── Train
-│
-├── Data.zip
-│
-└── venv
+projekt/ <br>
+│<br>
+├── Maršoun_poznavani_znacek.ipynb<br>
+├── requirements.txt<br>
+├── README.md<br>
+├── .gitignore<br>
+│<br>
+├── Data/<br>
+│   ├── Meta<br>
+│   ├── Test<br>
+│   └── Train<br>
+│<br>
+├── Data.zip<br>
+│<br>
+└── venv<br>
