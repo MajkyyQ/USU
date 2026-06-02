@@ -9,6 +9,7 @@ Projekt klasifikace datasetu GTSRB - German Traffic Sign Recognition Benchmark.
 - Random Forest
 - KNN
 - Decision Tree
+- 2D CNN
 
 ## Spuštění projektu
 
